@@ -1,0 +1,10 @@
+fieldset{
+    margin-bottom: 20px;
+}
+div{
+    margin-bottom: 10px;
+}
+label{
+    width: 80px;
+    display: inline-block;
+}
